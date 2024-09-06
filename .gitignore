@@ -1,0 +1,15 @@
+# VS studio files
+
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.sln
+
+# Output Folders
+
+bin/
+obj/
+
+# VS Code Cache
+
+.vs
